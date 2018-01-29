@@ -1,0 +1,10 @@
+Gauss partial: { y(x) = (-0) x ^{3} +(0) x ^{2} +(-0) x ^{1} +(0) }
+
+Gauss partial optimized: { y(x) = (0) x ^{2} +(-0) x ^{1} +(0) }
+
+Eigen: { y(x) = (-0) x ^{1} +(0) }
+
+Siedel: { y(x) = (0) x ^{2} +(-0) x ^{1} +(0) }
+
+Siedel Eigen: { y(x) = (0.000746427) x ^{1} +(-0.429188) }
+

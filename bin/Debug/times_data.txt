@@ -1,0 +1,1 @@
+Rozmiar;Generowanie;Gauss;Gauss Opt;Eigen;Seidel
